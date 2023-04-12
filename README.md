@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **English**
 
-- 📝 I regularly write articles on [linkedin.com/JuliPerezApiwan](linkedin.com/JuliPerezApiwan)
+- 💻 [linkedin.com/in/julietaperezapiwan](linkedin.com/julietaperezapiwan)
 
 - 📫 How to reach me **julieta.perezapiwan@gmail.com**
 
