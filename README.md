@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julieta Perez Apiwan</h1>
-<h3 align="center">A Backend developer from Argentina</h3>
+<h3 align="center">A Full Stack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliperezapiwan&label=Profile%20views&color=0e75b6&style=flat" alt="juliperezapiwan" /> </p>
 
