@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Julieta Perez Apiwan</h1>
-<h3 align="center">Full Stack developer de Argentina</h3>
+<h3 align="center">Estudiante de Full Stack developer en #SoyHenry</h3>
 
-<p>Hola, soy Julieta Perez Apiwan, estudiante de Desarrollo Full Stack. Actualmente me encuentro en la búsqueda de nuevas oportunidades laborales en esta área. 
+<p>Actualmente me encuentro en la búsqueda de nuevas oportunidades laborales en esta área. 
 
 Mi formación académica en Henry me ha permitido adquirir habilidades para trabajar con Javascript, React-Redux, Node.js, Express.js, PostgreSQL, Sequelize, Railway, Git y GitHub, las cuales estoy deseosa de aplicar en un entorno laboral.
 
