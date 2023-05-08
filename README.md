@@ -1,19 +1,28 @@
-<h1 align="center">Hi 👋, I'm Julieta Perez Apiwan</h1>
-<h3 align="center">A Full Stack developer from Argentina</h3>
+<h1 align="center">Hola 👋, Soy Julieta Perez Apiwan</h1>
+<h3 align="center">Full Stack developer de Argentina</h3>
+
+<p>Hola, soy Julieta Perez Apiwan, estudiante de Desarrollo Full Stack. Actualmente me encuentro en la búsqueda de nuevas oportunidades laborales en esta área. 
+
+Mi formación académica en Henry me ha permitido adquirir habilidades para trabajar con Javascript, React-Redux, Node.js, Express.js, PostgreSQL, Sequelize, Railway, Git y GitHub, las cuales estoy deseosa de aplicar en un entorno laboral.
+
+Si bien aun no tengo experiencia laboral previa en este ámbito, he realizado proyectos personales, en los que he aplicado lo aprendido en mi formación y demostrando mi capacidad para trabajar en equipo y resolver problemas.
+
+Además, cuento con una amplia gama de conocimientos de distinta índole, como ser redacción de artículos periodísticos, diseño de logos e imagen publicitaria, edición de video, administración de documentación, y más. Soy una persona con amplios conocimientos en asesoramiento al cliente, ya que mis estudios como Profesional de Medios de Comunicación Masiva, sumado a mi experiencia laboral, me generaron los recursos suficientes para saber comunicarme correctamente y cumplir con el objetivo deseado.
+
+Estoy muy interesada en seguir desarrollándome en el mundo IT, y busco una oportunidad para comenzar mi carrera profesional.</p>
+
+- 🔭 Actualmente me encuentro trabajando en **Henry Bootcamp Finally Project**
+- 🌱 Estudiando **English**
+
+Puedes contactarme por cualquier consulta!
+- 💻 https://www.linkedin.com/in/julietaperezapiwan/
+- 📫 How to reach me **julieta.perezapiwan@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliperezapiwan&label=Profile%20views&color=0e75b6&style=flat" alt="juliperezapiwan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliperezapiwan" alt="juliperezapiwan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Henry Bootcamp Finally Project**
-
-- 🌱 I’m currently learning **English**
-
-- 💻 https://www.linkedin.com/in/julietaperezapiwan/
-
-- 📫 How to reach me **julieta.perezapiwan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
