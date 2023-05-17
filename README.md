@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Julieta Perez Apiwan</h1>
-<h3 align="center">Full Stack developer en #SoyHenry</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-<p>Mi formación académica en Henry me ha permitido adquirir habilidades para trabajar con Javascript, React-Redux, Node.js, Express.js, PostgreSQL, Sequelize, Railway, Git y GitHub, las cuales estoy deseosa de aplicar en un entorno laboral.
+<p>Mi formación académica en #SoyHenry me ha permitido adquirir habilidades para trabajar con Javascript, React-Redux, Node.js, Express.js, PostgreSQL, Sequelize, Railway, Git y GitHub, las cuales estoy deseosa de aplicar en un entorno laboral.
 
 Si bien aun no tengo experiencia laboral previa en este ámbito, he realizado proyectos personales, en los que he aplicado lo aprendido en mi formación y demostrando mi capacidad para trabajar en equipo y resolver problemas.
 
